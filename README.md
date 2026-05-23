@@ -9,3 +9,4 @@ yahoo
 Rainy day
 I got three dogs
 One likes to sit at the dinner table
+My dog bruno acts like a hippo
